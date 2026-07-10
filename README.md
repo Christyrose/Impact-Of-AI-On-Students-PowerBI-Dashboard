@@ -2,7 +2,7 @@
 An Interactive Power BI dashboard analyzing the impact of Artificial Intelligence on students' academic performances, study habits, and AI usage using Power BI, Power Query, and DAX.
 ## Objectives
 - Analyze student Demographics.
-- Compare pre- and podt-semester GPA.
+- Compare pre- and post-semester GPA.
 - Evaluate Weekly AI Usage.
 - Identify trends and insights through interactive dashboards.
 ## Tools Used
